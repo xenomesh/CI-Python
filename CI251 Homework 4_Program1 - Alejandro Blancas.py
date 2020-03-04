@@ -1,8 +1,8 @@
 # Alejandro Blancas
 # CI251
 # Homework 4 - Using Dictonaries
-#There are two files coside with this program
-#menu_choices.py & save_load_dict.py
+# There are two files that needed for this program to work:
+# menu_choices.py & save_load_dict.py
 import menu_choices
 import save_load_dict
     #Global constants for menu choices
