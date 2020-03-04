@@ -1,5 +1,5 @@
 import pickle
-
+# THIS IS THE SECOND FILE FOR HOMEWORK 4
 def pickle_it(contacts):
     output_file = open('contacts.dat', 'wb')
     pickle.dump(contacts, output_file)
