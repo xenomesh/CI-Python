@@ -1,4 +1,5 @@
-    #Global constants for menu choices
+#THIS IS THE FIRST FILE FOR HOMEWORK 4
+#Global constants for menu choices
 LOOK_UP = 1
 ADD = 2
 CHANGE = 3
